@@ -60,7 +60,7 @@ function seleccionarOpcion(){
     console.log("4 Plan Trimestral");
     console.log("5 Salir")
     
-    let op = prompt("Ingrese la opción");
+    let op = prompt("Ingrese la opción 1.Saldo en Token 2.Plan Mensual 3.Plan Bimestral 4.Plan Trimestral 5.Salir");
 
         switch(op){
             case "1" :
